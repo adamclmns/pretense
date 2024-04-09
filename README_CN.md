@@ -1,4 +1,4 @@
-# Chinese manual is very outdated, please refer to the English manual!
+# Chinese manual is very outdated, please refer to the English manual! 
 
 ![Pretense](/images/cover_banner.jpg)
 
