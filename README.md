@@ -1,4 +1,4 @@
-## :warning: Pretense is no longer being developed or supported by the original author. In their absence, this fork project aims to fill the gap, and keep these missions working well with DCS into the future.
+## :warning: Pretense is no longer being developed or supported by the original author. In their absence, this fork project aims to fill the gap, and keep these missions working well with DCS into the future. No new features will be added, we're only keeping this mission functional so it can continue to be enjoyed.
 
 [![Pretense](/images/cover_banner.jpg)](https://www.digitalcombatsimulator.com/en/files/3331159/)
 [![Pretense Syria Cold War](/images/cover_syria_banner.jpg)](https://www.digitalcombatsimulator.com/en/files/3332140/)
